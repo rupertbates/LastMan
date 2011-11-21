@@ -1,0 +1,10 @@
+/out
+/gen
+/target
+/.idea/workspace.xml
+*.db4o
+*.db40
+*.db4O
+*.trace
+*.apk
+local.properties
