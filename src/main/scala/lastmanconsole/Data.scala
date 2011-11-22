@@ -1,13 +1,13 @@
 package lastmanconsole
 
 object Data {
-  val league = Map(
+  private val league = Map(
     "19-11-2011" ->
       List("Man City", "Man Utd", "Newcastle", "Chelsea", "Tottenham", "Liverpool", "Arsenal", "Aston Villa", "QPR", "West Brom", "Norwich", "Everton", "Swansea", "Stoke", "Sunderland", "Fulham", "Wolves", "Bolton", "Blackburn", "Wigan"),
     "26-11-2011" ->
       List("Man City", "Man Utd", "Tottenham", "Newcastle", "Chelsea", "Liverpool", "Arsenal", "Aston Villa", "QPR", "West Brom", "Norwich", "Everton", "Swansea", "Stoke", "Sunderland", "Fulham", "Wolverhampton", "Bolton", "Blackburn", "Wigan")
   )
-  val games = Map(
+  private val games = Map(
     "19-11-2011" ->
       List(("Norwich", "Arsenal"),
         ("Everton", "Wolves"),
