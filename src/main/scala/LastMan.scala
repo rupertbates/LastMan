@@ -1,4 +1,4 @@
-package
+package lastmanconsole
 
 
 object LastMan extends App {
